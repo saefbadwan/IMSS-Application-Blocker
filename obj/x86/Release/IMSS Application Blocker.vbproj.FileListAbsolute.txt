@@ -1,0 +1,31 @@
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\bin\Release\IMSS Application Blocker.exe.config
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\bin\Release\IMSS Application Blocker.exe
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\bin\Release\IMSS Application Blocker.pdb
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\bin\Release\IMSS Application Blocker.xml
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS_Application_Blocker.IMSS_BLOCK.resources
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS_Application_Blocker.IMSS_UNBLOCK.resources
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS_Application_Blocker.MainWindow.resources
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS_Application_Blocker.Resources.resources
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS Application Blocker.exe
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS Application Blocker.xml
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS Application Blocker.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\bin\Release\IMSS Application Blocker.exe.config
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\bin\Release\IMSS Application Blocker.exe
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\bin\Release\IMSS Application Blocker.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\bin\Release\IMSS Application Blocker.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\bin\Release\IMSS_Multiuse.dll
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\bin\Release\IMSS_Multiuse.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\bin\Release\IMSS_Multiuse.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\ResolveAssemblyReference.cache
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS_Application_Blocker.IMSS_BLOCK.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS_Application_Blocker.IMSS_UNBLOCK.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS_Application_Blocker.MainWindow.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS_Application_Blocker.Resources.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS Application Blocker.exe
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS Application Blocker.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Release\IMSS Application Blocker.pdb

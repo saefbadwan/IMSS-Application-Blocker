@@ -1,0 +1,14 @@
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\bin\Debug\IMSS Application Blocker.exe.config
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\bin\Debug\IMSS Application Blocker.exe
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\bin\Debug\IMSS Application Blocker.pdb
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\bin\Debug\IMSS Application Blocker.xml
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Debug\IMSS_Application_Blocker.IMSS_BLOCK.resources
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Debug\IMSS_Application_Blocker.IMSS_UNBLOCK.resources
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Debug\IMSS_Application_Blocker.MainWindow.resources
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Debug\IMSS_Application_Blocker.Resources.resources
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Debug\IMSS Application Blocker.exe
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Debug\IMSS Application Blocker.xml
+C:\Users\User\Documents\visual studio 2010\Projects\IMSS Application Blocker\IMSS Application Blocker\obj\x86\Debug\IMSS Application Blocker.pdb
